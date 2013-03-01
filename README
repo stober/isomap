@@ -1,5 +1,7 @@
-isomap
+Isomap
 
 Author: Jeremy Stober
 Contact: stober@gmail.com
 Version: 0.1
+
+This is a Python implementation of Isomap built on top of my mds library (https://github.com/stober/mds/). This supports both k and epsilon nearest neighbor graph computations prior to determining isometric distances between data points. You can find more info about isomap, as well as a Matlab implementation here: http://isomap.stanford.edu/.
